@@ -22,6 +22,6 @@ Ya que el contenido es de pago, hay plantillas para crear el contenido que se pu
 # Instalación
 Para instalar este sistema, debes seguir estos pasos:
 - Instalar el Sistema de "Sandbox" de FoundryVTT creado por Seregrass.
-- Una vez instalado, inserta la URL de este ([World.json](https://raw.githubusercontent.com/Damaskian/Foundry-Degenesis/main/world.json)) en Foundry VTT > Game Worlds > Install World > Manifest URL: LINK
+- Una vez instalado, inserta la URL de este ([World.json](https://raw.githubusercontent.com/Top64/robotta-sandbox/main/world.json?token=AEWCF6F7UQU2F52RXQKNC5DA7L44C)) en Foundry VTT > Game Worlds > Install World > Manifest URL: LINK
 
 > **Nota:** No soy propietario ni tengo permiso de la editora para publicar contenido propio del sistema de juego.
