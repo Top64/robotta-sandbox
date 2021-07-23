@@ -15,8 +15,6 @@ Robotta es un juego de Rol creado por Sirio Sesenra bajo la marca de Shadowlands
 
 Se incluyen un par de escenas base. Además de un mapa del mundo de estilo holográfico.
 
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
-
 ## Plantillas
 
 Ya que el contenido es de pago, hay plantillas para crear el contenido que se puede crear el manual. Puede ser complicado de entender al principio, pero solo es saber que valores modificar según lo que se necesita.
@@ -25,3 +23,5 @@ Ya que el contenido es de pago, hay plantillas para crear el contenido que se pu
 Para instalar este sistema, debes seguir estos pasos:
 - Instalar el Sistema de "Sandbox" de FoundryVTT creado por Seregrass.
 - Una vez instalado, inserta la URL de este ([World.json](https://raw.githubusercontent.com/Damaskian/Foundry-Degenesis/main/world.json)) en Foundry VTT > Game Worlds > Install World > Manifest URL: LINK
+
+> **Nota:** No soy propietario ni tengo permiso de la editora para publicar contenido propio del sistema de juego.
