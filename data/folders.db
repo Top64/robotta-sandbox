@@ -1,0 +1,61 @@
+{"_id":"07rQEHqSutkkWH1p","name":"Datos","type":"Item","parent":"TRkG5rQIWKYaID4A","sorting":"a","sort":1600000,"color":null,"flags":{}}
+{"_id":"0o1kuOLGYyirTLf4","name":"_Compendium","type":"Item","parent":null,"sorting":"a","sort":300000,"color":"#e51070","flags":{}}
+{"_id":"3NKwaWmPhQ07ObYY","name":"Clase","type":"Item","parent":"TRkG5rQIWKYaID4A","sorting":"a","sort":1647657,"color":null,"flags":{}}
+{"_id":"9cM7ouSyqTRHBbhb","name":"Armas","type":"Item","parent":"j1qzysawkUkc5Q5K","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"_id":"AgT1HTYXnaHcXIhF","name":"citems","type":"Item","parent":"0o1kuOLGYyirTLf4","sorting":"m","sort":600000,"color":null,"flags":{}}
+{"_id":"AiPk5kx82cBpttqz","name":"Isak","type":"Item","parent":"TRkG5rQIWKYaID4A","sorting":"a","sort":1646875,"color":null,"flags":{}}
+{"name":"SHEETS","type":"Item","parent":"TRkG5rQIWKYaID4A","sorting":"a","sort":0,"color":"#5900ff","flags":{},"_id":"AjpS1gdT9gmFp7s9"}
+{"_id":"BF6U7gBHtjTHsEOf","name":"Tabla de Armas","type":"Item","parent":"AgT1HTYXnaHcXIhF","sorting":"a","sort":1000000,"color":"#7839d5","flags":{}}
+{"_id":"Ch4GMCVEzz1wj6tY","name":"Isak","type":"Item","parent":"AjpS1gdT9gmFp7s9","sorting":"a","sort":500000,"color":null,"flags":{}}
+{"_id":"Cvor4p6JmPGeJpeq","name":"Tabla de Robots","type":"Item","parent":"AgT1HTYXnaHcXIhF","sorting":"a","sort":1100000,"color":"#f0be0a","flags":{}}
+{"_id":"GFOlNSA8KuC7rHBb","name":"Exo","type":"Item","parent":"AgT1HTYXnaHcXIhF","sorting":"a","sort":1300000,"color":null,"flags":{}}
+{"_id":"JalsqddkFSMFNceb","name":"Clases","type":"Item","parent":"AgT1HTYXnaHcXIhF","sorting":"a","sort":1400000,"color":null,"flags":{}}
+{"_id":"NuwIYwxeUts5GUId","name":"Paneles","type":"Item","parent":"AjpS1gdT9gmFp7s9","sorting":"m","sort":100000,"color":null,"flags":{}}
+{"name":"General","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"O1Hz2nV5eaiCtT53"}
+{"_id":"O3Qkbj6ZIvLRuJDT","name":"Propiedades","type":"Item","parent":"0o1kuOLGYyirTLf4","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"ODyL8qkWDk1aiN0C","name":"PROPIEDADES GRUPOS","type":"Item","parent":"j1qzysawkUkc5Q5K","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"OM2dYpCQJE5Cgynm","name":"Robots","type":"Item","parent":"j1qzysawkUkc5Q5K","sorting":"a","sort":400000,"color":null,"flags":{}}
+{"_id":"QFcS0c9IViymcJkJ","name":"Multipanel Combate","type":"Item","parent":"AjpS1gdT9gmFp7s9","sorting":"a","sort":400000,"color":null,"flags":{}}
+{"_id":"S8gNXAu8aPkNeOgd","name":"Armaduras/exo","type":"Item","parent":"AgT1HTYXnaHcXIhF","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"SAiHtS8pWLLvMrzE","name":"Objetos","type":"Item","parent":"AgT1HTYXnaHcXIhF","sorting":"a","sort":600000,"color":null,"flags":{}}
+{"_id":"TR2G9TR1pgnCFXcr","name":"Profesiones","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"TRkG5rQIWKYaID4A","name":"_Plantilla","type":"Item","parent":null,"sorting":"m","sort":100000,"color":"#f20765","flags":{}}
+{"_id":"TUyKkm0lBbY5nP0A","name":"Plantilla del Sistema","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#ff1f6d","flags":{}}
+{"_id":"VVdh6Fq81dFgYJfC","name":"Características","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"WP6hEq9EZBPva2JK","name":"_Nave","type":"Actor","parent":"TUyKkm0lBbY5nP0A","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"ZLOQ0Ft6Uz99Wtxw","name":"Multipanel Principal","type":"Item","parent":"AjpS1gdT9gmFp7s9","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"aY2fsfAgL8SG3WvX","name":"Armas","type":"Item","parent":"AgT1HTYXnaHcXIhF","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"bQVRcIlnYC8O6yFC","name":"Tabla de Armaduras","type":"Item","parent":"AgT1HTYXnaHcXIhF","sorting":"m","sort":900000,"color":"#517ec8","flags":{}}
+{"_id":"bkJadOtGoq2MNW5c","name":"Isak 3","type":"Item","parent":"TRkG5rQIWKYaID4A","sorting":"a","sort":1645313,"color":null,"flags":{}}
+{"_id":"dBZxAUMvxvd8puhu","name":"Bio","type":"Item","parent":"TRkG5rQIWKYaID4A","sorting":"a","sort":1700000,"color":null,"flags":{}}
+{"_id":"e0sj4aPU4w7pBVsQ","name":"Consumibles","type":"Item","parent":"AgT1HTYXnaHcXIhF","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"_id":"f6Wi24EXoh5ZgpHX","name":"Isak 4","type":"Item","parent":"TRkG5rQIWKYaID4A","sorting":"a","sort":1648438,"color":null,"flags":{}}
+{"_id":"gO2Vj9WJRHPJvNqs","name":"GRUPOS","type":"Item","parent":"j1qzysawkUkc5Q5K","sorting":"m","sort":200000,"color":null,"flags":{}}
+{"_id":"hiBblJXz4Jn3YJq0","name":"Rasgos","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"_id":"hrVCXaKRDRbWC0lQ","name":"Combate","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":400000,"color":null,"flags":{}}
+{"name":"GROUPS","type":"Item","parent":"TRkG5rQIWKYaID4A","sorting":"a","sort":0,"color":"#ff0000","flags":{},"_id":"j1qzysawkUkc5Q5K"}
+{"_id":"kiVJtVVwl618biP5","name":"Exos para Nave","type":"Item","parent":"AgT1HTYXnaHcXIhF","sorting":"a","sort":500000,"color":"#f1920e","flags":{}}
+{"_id":"lsFMKdxE9rgHKCiz","name":"Panel Exos","type":"Item","parent":"AjpS1gdT9gmFp7s9","sorting":"a","sort":700000,"color":null,"flags":{}}
+{"_id":"mZRZk1J1taiSNlkK","name":"Tipos de Naves","type":"Item","parent":"AgT1HTYXnaHcXIhF","sorting":"a","sort":1200000,"color":"#f3d720","flags":{}}
+{"_id":"nDabTn6lN4X2SKMx","name":"Nave","type":"Item","parent":"AjpS1gdT9gmFp7s9","sorting":"a","sort":600000,"color":null,"flags":{}}
+{"_id":"nYjpkKGzsWn1W1Md","name":"Misiones","type":"Item","parent":"AgT1HTYXnaHcXIhF","sorting":"a","sort":800000,"color":"#ff0000","flags":{}}
+{"name":"Misiones del Gremio","type":"JournalEntry","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#7d7d7d","_id":"nrLIKFasIaAvcZvx"}
+{"_id":"pMBCpqhQnoHeuDse","name":"Nave","type":"Item","parent":"TRkG5rQIWKYaID4A","sorting":"a","sort":1640625,"color":null,"flags":{}}
+{"_id":"paCMDTYPg3sezrXE","name":"NPC LIST","type":"Item","parent":"AgT1HTYXnaHcXIhF","sorting":"a","sort":700000,"color":"#930fff","flags":{}}
+{"_id":"qVwktLO2ElQvw3Xo","name":"Isak 2","type":"Item","parent":"TRkG5rQIWKYaID4A","sorting":"a","sort":1642969,"color":null,"flags":{}}
+{"_id":"r2UvD0i8zMJmY1rI","name":"Tabs","type":"Item","parent":"AjpS1gdT9gmFp7s9","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"name":"Propiedades","type":"Item","parent":"TRkG5rQIWKYaID4A","sorting":"a","sort":0,"color":"#abff2e","flags":{},"_id":"s1AgKfZoibrwxaHA"}
+{"_id":"t7hkS5oVQBGnc6Dm","name":"_Config","type":"Actor","parent":"TUyKkm0lBbY5nP0A","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"w1JHrrG3okWOAw2G","name":"Tablas","type":"Item","parent":"TRkG5rQIWKYaID4A","sorting":"a","sort":1500000,"color":null,"flags":{}}
+{"_id":"wGeTYxdAythAX7aD","name":"Exos","type":"Item","parent":"j1qzysawkUkc5Q5K","sorting":"a","sort":500000,"color":null,"flags":{}}
+{"_id":"wtZnMHoklcrWb6z0","name":"Condiciones","type":"Item","parent":"TRkG5rQIWKYaID4A","sorting":"a","sort":1400000,"color":null,"flags":{}}
+{"_id":"wtZnMHoklcrWb6z0","name":"Condiciones","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":500000,"color":null,"flags":{}}
+{"_id":"w1JHrrG3okWOAw2G","name":"Tablas","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":600000,"color":null,"flags":{}}
+{"_id":"07rQEHqSutkkWH1p","name":"Datos","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":700000,"color":null,"flags":{}}
+{"_id":"pMBCpqhQnoHeuDse","name":"Nave","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":800000,"color":null,"flags":{}}
+{"_id":"qVwktLO2ElQvw3Xo","name":"Isak 2","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":900000,"color":null,"flags":{}}
+{"_id":"bkJadOtGoq2MNW5c","name":"Isak 3","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":1000000,"color":null,"flags":{}}
+{"_id":"AiPk5kx82cBpttqz","name":"Isak","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":1100000,"color":null,"flags":{}}
+{"_id":"3NKwaWmPhQ07ObYY","name":"Clase","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":1200000,"color":null,"flags":{}}
+{"_id":"f6Wi24EXoh5ZgpHX","name":"Isak 4","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":0,"color":null,"flags":{}}
+{"_id":"dBZxAUMvxvd8puhu","name":"Bio","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":1300000,"color":null,"flags":{}}

@@ -1,0 +1,166 @@
+/* Font Families Initialization! Add more here before you use */
+/* Copy the entire paragraph and paste it below, then change the name and the url */
+/* Finally, use the name in font-family in the rest of the style page */
+
+@font-face {
+  font-family: MinionPro;
+  src:url(fonts/MinionPro-Medium.otf);
+}
+
+@font-face {
+  font-family: Rubik;
+  src:url(fonts/Rubik-Regular.ttf);
+}
+
+/* ------------------------------ */
+
+/* ------!!!! ------- */
+/* ---------- DO NOT REMOVE THE ; SEMI COLON PUNTO Y COMA  AT THE END OF EVERY LINE !!! ---- */
+/* ------!!!! ------- */
+
+/* Character sheet background and Font Color */
+.sandbox.sheet .window-content {
+  color: #ff9102; /* Change color code, include the hash tag! */
+  /* Replace LINK_TO_IMAGE from the web to an image you like for a background or place it in img folder */
+  /* Image should be sized on about 720p and not be too heavy */
+  background: url(img/09.jpg) repeat;  /*Replace no-repeat with repeat for pattern images */
+  overflow-y: auto; /* change between hidden and auto to show vertical scroll bar in sheets. Good for long sheets */
+  /*background: rgba(116, 116, 116, 0.74);*/
+}
+
+/* Font control of general text in Foundry in general */
+body {
+  font-family: Rubik; /* Dont remove the colon at the end!!! */
+  font-size: 14px; /* change only the number! */
+}
+
+/* Tabs in sheets! */
+.sandbox.sheet .tabs .item {
+  font-family: Rubik;
+  font-weight: bold;
+  color:#029af1;
+}
+
+/* Font and color control for Panel Headers */
+.sandbox.sheet .panelheader {
+  font-family: Rubik;
+  font-size: 14px; /* change only the number! */
+  background-color: #000002de; /* Background color for panel header */
+}
+
+
+/* Character sheet input text background color fields */
+.sandbox.sheet [class^="flexblock-"] input {
+  font-family: Rubik;
+  font-size: 12px;
+  color:#ffffffde;
+  background-color: #333333;
+  border: 1px solid rgb(23, 145, 245);
+}
+
+.sandbox.sheet .tab-button{
+  font-family: Rubik;
+  color:#029af1;
+}
+
+.sandbox.sheet .tab-button:hover{text-shadow: 0 0 8px orange;}
+.sandbox.sheet .leftarrow:hover{filter: drop-shadow(0 0 11px orange);}
+.sandbox.sheet .rightarrow:hover{filter: drop-shadow(0 0 11px orange));}
+
+.sandbox.sheet input[type=text].input-disabled,.sandbox.sheet input[type=text][readonly=true]{
+  background-color: #6d6d6d;
+}
+
+.sandbox.sheet .radio-element{
+  color:rgb(255, 2, 99);
+}
+
+.sandbox.sheet .radio-element:hover {text-shadow: 0 0 8px rgb(255, 255, 255);}
+
+.sandbox.sheet [class^="flexblock-"] textarea {
+  font-family: Rubik;
+  font-size: 12px;
+  color:#ffffffde;
+  background-color: #333333;
+}
+
+.sandbox.sheet [class^="flexblock-"] select {
+  font-family: Rubik;
+  color:#ffffffde;
+  background-color: #333333;
+}
+
+/* Character sheet input text in tables (items) */
+/* You can delete this paragraph if you want it to be same as the input text above */
+.sandbox.sheet [class^="flexblock-"] td input {
+  font-family: Rubik;
+  font-size: 12px;
+  background-color: #a8b3b3;
+}
+
+/* How cItems in tables behave when you move your mouse over!!! */
+.sandbox.sheet .linkable:hover {
+    color: #029af1;
+	font-family: Rubik; /* Not a good idea to change fonts when passing the mouse but... */
+	font-size: 14px; /* Make it bigger or smaller when mouse over? */
+    font-weight: bold; /* try bold - bolder - normal - lighter */
+}
+
+/* Labels fonts and style */
+.sandbox.sheet [class*="label-"] {
+  font-family: Rubik;
+  font-size: 13px;
+}
+
+/* Character sheet table header colors */
+.sandbox.sheet thead {
+  background-color: #000000;
+}
+
+/* Character sheet empty table cell colors */
+.sandbox.sheet tr.empty-row {
+  background-color: #6d6d6d;
+}
+
+/* Table Body background color */
+tbody.table {
+  background-color: #4e4e4e;
+}
+
+/* Table cells fonts */
+.sandbox.sheet td {
+  font-family: Rubik;
+  font-size: 14px;
+}
+
+/* ---- NEW Sep-26 ----- */
+
+/* Change shadow colors and Foundry general font color!! */
+.app {
+  box-shadow: 0 0 20px #04d9ff; /* Change the color code here for a nice shadow color! */
+  color: #dfdfdf; /* Text color for window titles and menu all across Foundry */
+}
+
+/* Character and Item Name Titles Text style! */
+.sandbox.sheet .charname input {
+    font-family: Rubik;
+    font-size: 30px;
+    font-style: normal;
+    color: white;
+}
+
+/* Customize the chat roll area! */
+#chat-form textarea {
+  background: url(img/16.jpg) no-repeat; /* Replace with some url with image or url in img folder */
+  background-size: cover;
+  font-family: monospace; /* Text font in dice */
+  font-size: 14px; /* Text size in dice dialog */
+  color: rgb(255, 255, 255); /* Text color in dice dialog */
+}
+
+/* Customize the chat history area! */
+#chat-log .message {
+  background: url(img/072.jpg) no-repeat; /* Replace with some url with image or url in img folder */
+  background-size: cover;
+  color: #eb9e39; /* Text color */
+}

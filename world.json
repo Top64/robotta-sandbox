@@ -1,0 +1,143 @@
+{
+  "name": "robotta-sandbox",
+  "title": "Robotta System - Sandbox",
+  "description": null,
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Robotta - Armas",
+      "entity": "Item",
+      "name": "robotta-armas",
+      "path": "packs/robotta-armas.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-armas.db"
+    },
+    {
+      "label": "Robotta - Armaduras",
+      "entity": "Item",
+      "name": "robotta-armaduras",
+      "path": "packs/robotta-armaduras.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-armaduras.db"
+    },
+    {
+      "label": "Robotta -Exos",
+      "entity": "Item",
+      "name": "robotta-exos",
+      "path": "packs/robotta-exos.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-exos.db"
+    },
+    {
+      "label": "Robotta - Naves",
+      "entity": "Item",
+      "name": "robotta-naves",
+      "path": "packs/robotta-naves.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-naves.db"
+    },
+    {
+      "label": "Robotta- Exos de Nave",
+      "entity": "Item",
+      "name": "robotta-exos-de-nave",
+      "path": "packs/robotta-exos-de-nave.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-exos-de-nave.db"
+    },
+    {
+      "label": "Robotta - Robots",
+      "entity": "Item",
+      "name": "robotta-robots",
+      "path": "packs/robotta-robots.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-robots.db"
+    },
+    {
+      "label": "Robotta - Clases NPC",
+      "entity": "Item",
+      "name": "robotta-clases-npc",
+      "path": "packs/robotta-clases-npc.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-clases-npc.db"
+    },
+    {
+      "label": "Robotta - Clases Neosaurios NPC",
+      "entity": "Item",
+      "name": "robotta-clases-neosaurios-npc",
+      "path": "packs/robotta-clases-neosaurios-npc.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false
+    },
+    {
+      "label": "Robotta - Clases",
+      "entity": "Item",
+      "name": "robotta-clases",
+      "path": "packs/robotta-clases.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-clases.db"
+    },
+    {
+      "label": "Robotta - Sistema",
+      "entity": "JournalEntry",
+      "name": "robotta-sistema",
+      "path": "packs/robotta-sistema.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-sistema.db"
+    },
+    {
+      "label": "Robotta - Naciones",
+      "entity": "JournalEntry",
+      "name": "robotta-naciones",
+      "path": "packs/robotta-naciones.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-naciones.db"
+    },
+    {
+      "label": "Robotta - Ciudades",
+      "entity": "JournalEntry",
+      "name": "robotta-ciudades",
+      "path": "packs/robotta-ciudades.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false
+    }
+  ],
+  "system": "sandbox",
+  "dependencies": [],
+  "url": "https://github.com/Top64/robotta-sandbox",
+  "socket": false,
+  "protected": false,
+  "background": "worlds/robotta-sandbox/Resources/Robotta-Shadowlands-2.jpg",
+  "coreVersion": "0.8.8",
+  "nextSession": null,
+  "resetKeys": false,
+  "safeMode": false,
+  "id": "robotta-sandbox"
+}
