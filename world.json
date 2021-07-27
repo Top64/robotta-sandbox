@@ -17,8 +17,7 @@
       "path": "packs/robotta-armas.db",
       "system": "sandbox",
       "package": "world",
-      "private": false,
-      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-armas.db"
+      "private": false
     },
     {
       "label": "Robotta - Armaduras",
@@ -27,8 +26,7 @@
       "path": "packs/robotta-armaduras.db",
       "system": "sandbox",
       "package": "world",
-      "private": false,
-      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-armaduras.db"
+      "private": false
     },
     {
       "label": "Robotta -Exos",
@@ -37,8 +35,7 @@
       "path": "packs/robotta-exos.db",
       "system": "sandbox",
       "package": "world",
-      "private": false,
-      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-exos.db"
+      "private": false
     },
     {
       "label": "Robotta - Naves",
@@ -47,8 +44,7 @@
       "path": "packs/robotta-naves.db",
       "system": "sandbox",
       "package": "world",
-      "private": false,
-      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-naves.db"
+      "private": false
     },
     {
       "label": "Robotta- Exos de Nave",
@@ -57,8 +53,7 @@
       "path": "packs/robotta-exos-de-nave.db",
       "system": "sandbox",
       "package": "world",
-      "private": false,
-      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-exos-de-nave.db"
+      "private": false
     },
     {
       "label": "Robotta - Robots",
@@ -67,8 +62,7 @@
       "path": "packs/robotta-robots.db",
       "system": "sandbox",
       "package": "world",
-      "private": false,
-      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-robots.db"
+      "private": false
     },
     {
       "label": "Robotta - Clases NPC",
@@ -77,8 +71,7 @@
       "path": "packs/robotta-clases-npc.db",
       "system": "sandbox",
       "package": "world",
-      "private": false,
-      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-clases-npc.db"
+      "private": false
     },
     {
       "label": "Robotta - Clases Neosaurios NPC",
@@ -96,8 +89,34 @@
       "path": "packs/robotta-clases.db",
       "system": "sandbox",
       "package": "world",
-      "private": false,
-      "absPath": "C:\\Users\\topmi\\AppData\\Local\\FoundryVTT\\Data\\worlds\\robotta-sandbox\\packs\\robotta-clases.db"
+      "private": false
+    },
+    {
+      "label": "Robotta - Ciudades",
+      "entity": "Item",
+      "name": "robotta-ciudades",
+      "path": "packs/robotta-ciudades.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false
+    },
+    {
+      "label": "Robotta - Naciones",
+      "entity": "Item",
+      "name": "robotta-naciones",
+      "path": "packs/robotta-naciones.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false
+    },
+    {
+      "label": "Robotta - Sistema",
+      "entity": "Item",
+      "name": "robotta-sistema",
+      "path": "packs/robotta-sistema.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false
     }
   ],
   "system": "sandbox",
