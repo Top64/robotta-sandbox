@@ -24,4 +24,4 @@ Para instalar este sistema, debes seguir estos pasos:
 - Instalar el Sistema de "Sandbox" de FoundryVTT creado por Seregrass.
 - Una vez instalado, inserta la URL de este ([World.json](https://raw.githubusercontent.com/Top64/robotta-sandbox/main/world.json)) en Foundry VTT > Game Worlds > Install World > Manifest URL: LINK
 
-> **Nota:** No soy propietario ni tengo permiso de la editora para publicar contenido propio del sistema de juego.
+> **Nota:** El contenido incluido en este sistema ha sido cedido por la editorial para fines no comerciales.
