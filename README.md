@@ -27,4 +27,5 @@ Para instalar este sistema, debes seguir estos pasos:
 > **Nota:** El contenido incluido en este sistema ha sido cedido por la editorial para fines no comerciales.
 
 Twitter: @TopSixtyFour
-Me podéis apoyar en https://top64.gumroad.com/
+
+Me podéis apoyar en [gumroad](https://top64.gumroad.com/)
