@@ -1,8 +1,9 @@
 {
   "name": "robotta-sandbox",
   "title": "Robotta System - Sandbox",
-  "description": null,
+  "description": "",
   "authors": [],
+  "url": "https://github.com/Top64/robotta-sandbox",
   "flags": {},
   "version": "1.0.0",
   "scripts": [],
@@ -117,19 +118,34 @@
       "system": "sandbox",
       "package": "world",
       "private": false
+    },
+    {
+      "label": "Robotta - Neosaurios/Macroinsectos",
+      "entity": "Actor",
+      "name": "robotta-neosauriosmacroinsectos",
+      "path": "packs/robotta-neosauriosmacroinsectos.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false
+    },
+    {
+      "label": "Robotta - NPC",
+      "entity": "Actor",
+      "name": "robotta-npc",
+      "path": "packs/robotta-npc.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false
     }
   ],
   "system": "sandbox",
   "dependencies": [],
   "socket": false,
-  "url": "https://github.com/Top64/robotta-sandbox",
   "manifest": "https://raw.githubusercontent.com/Top64/robotta-sandbox/main/world.json?token=AEWCF6F7UQU2F52RXQKNC5DA7L44C",
   "download": "https://github.com/Top64/robotta-sandbox/archive/main.zip",
   "protected": false,
   "background": "worlds/robotta-sandbox/Resources/Robotta-Shadowlands-2.jpg",
   "coreVersion": "0.8.8",
-  "nextSession": null,
   "resetKeys": false,
-  "safeMode": false,
-  "id": "robotta-sandbox"
+  "safeMode": false
 }

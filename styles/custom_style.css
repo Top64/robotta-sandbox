@@ -64,8 +64,8 @@ body {
 }
 
 .sandbox.sheet .tab-button:hover{text-shadow: 0 0 8px orange;}
-.sandbox.sheet .leftarrow:hover{filter: drop-shadow(0 0 11px orange);}
-.sandbox.sheet .rightarrow:hover{filter: drop-shadow(0 0 11px orange));}
+.sandbox.sheet .leftarrow:hover{filter: drop-shadow(0 0 11px rgb(255, 255, 255));}
+.sandbox.sheet .rightarrow:hover{filter: drop-shadow(0 0 11px rgb(255, 255, 255));}
 
 .sandbox.sheet input[type=text].input-disabled,.sandbox.sheet input[type=text][readonly=true]{
   background-color: #6d6d6d;
@@ -86,7 +86,7 @@ body {
 
 .sandbox.sheet [class^="flexblock-"] select {
   font-family: Rubik;
-  color:#ffffffde;
+  color:rgb(75, 209, 250);
   background-color: #333333;
 }
 
@@ -95,7 +95,7 @@ body {
 .sandbox.sheet [class^="flexblock-"] td input {
   font-family: Rubik;
   font-size: 12px;
-  background-color: #a8b3b3;
+  background-color: white;
 }
 
 /* How cItems in tables behave when you move your mouse over!!! */
@@ -113,24 +113,25 @@ body {
 }
 
 /* Character sheet table header colors */
-.sandbox.sheet thead {
+.sandbox.sheet tbody {
   background-color: #000000;
 }
 
 /* Character sheet empty table cell colors */
-.sandbox.sheet tr.empty-row {
-  background-color: #6d6d6d;
+.sandbox.sheet thead {
+  background-color: rgb(51, 54, 80);
 }
 
 /* Table Body background color */
 tbody.table {
-  background-color: #4e4e4e;
+  background-color: #6600ff;
 }
 
 /* Table cells fonts */
 .sandbox.sheet td {
   font-family: Rubik;
   font-size: 14px;
+  background-color: black;
 }
 
 /* ---- NEW Sep-26 ----- */
@@ -138,7 +139,7 @@ tbody.table {
 /* Change shadow colors and Foundry general font color!! */
 .app {
   box-shadow: 0 0 20px #04d9ff; /* Change the color code here for a nice shadow color! */
-  color: #dfdfdf; /* Text color for window titles and menu all across Foundry */
+  color: #e2e2e2; /* Text color for window titles and menu all across Foundry */
 }
 
 /* Character and Item Name Titles Text style! */
