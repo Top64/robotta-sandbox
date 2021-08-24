@@ -55,7 +55,7 @@
 {"name":"Robotta - Clases NPC","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"qGhdVJQjdWbnYvLQ"}
 {"_id":"qVwktLO2ElQvw3Xo","name":"Isak 2","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":900000,"color":null,"flags":{}}
 {"_id":"r2UvD0i8zMJmY1rI","name":"Tabs","type":"Item","parent":"AjpS1gdT9gmFp7s9","sorting":"a","sort":300000,"color":null,"flags":{}}
-{"name":"Propiedades","type":"Item","parent":"TRkG5rQIWKYaID4A","sorting":"a","sort":0,"color":"#abff2e","flags":{},"_id":"s1AgKfZoibrwxaHA"}
+{"_id":"s1AgKfZoibrwxaHA","name":"Propiedades","type":"Item","parent":"TRkG5rQIWKYaID4A","sorting":"a","sort":0,"color":"#374620","flags":{}}
 {"_id":"t7hkS5oVQBGnc6Dm","name":"_Config","type":"Actor","parent":"TUyKkm0lBbY5nP0A","sorting":"a","sort":100000,"color":null,"flags":{}}
 {"_id":"w1JHrrG3okWOAw2G","name":"Tablas","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":600000,"color":null,"flags":{}}
 {"_id":"wGeTYxdAythAX7aD","name":"Exos","type":"Item","parent":"j1qzysawkUkc5Q5K","sorting":"a","sort":500000,"color":null,"flags":{}}

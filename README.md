@@ -25,7 +25,3 @@ Para instalar este sistema, debes seguir estos pasos:
 - Una vez instalado, inserta la URL de este ([World.json](https://raw.githubusercontent.com/Top64/robotta-sandbox/main/world.json)) en Foundry VTT > Game Worlds > Install World > Manifest URL: LINK
 
 > **Nota:** El contenido incluido en este sistema ha sido cedido por la editorial para fines no comerciales.
-
-Twitter: @TopSixtyFour
-
-Me podéis apoyar en [gumroad](https://top64.gumroad.com/)
