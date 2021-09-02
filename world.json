@@ -136,6 +136,15 @@
       "system": "sandbox",
       "package": "world",
       "private": false
+    },
+    {
+      "label": "Robotta - Objetos y Armamento",
+      "entity": "Item",
+      "name": "robotta-objetos-y-armamento",
+      "path": "packs/robotta-objetos-y-armamento.db",
+      "system": "sandbox",
+      "package": "world",
+      "private": false
     }
   ],
   "system": "sandbox",

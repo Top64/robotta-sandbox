@@ -23,6 +23,10 @@
 /* ---------- DO NOT REMOVE THE ; SEMI COLON PUNTO Y COMA  AT THE END OF EVERY LINE !!! ---- */
 /* ------!!!! ------- */
 
+.sandbox.sheet .headerstyle1{
+  color: rgb(255, 2, 99);
+  }
+
 /* Character sheet background and Font Color */
 .sandbox.sheet .window-content {
   color: #ffffff; /* Change color code, include the hash tag! */
@@ -81,6 +85,8 @@ body {
 .sandbox.sheet .tab-button:hover{text-shadow: 0 0 8px rgb(255, 2, 99);}
 .sandbox.sheet .leftarrow:hover{filter: drop-shadow(0 0 11px rgb(255, 255, 255));}
 .sandbox.sheet .rightarrow:hover{filter: drop-shadow(0 0 11px rgb(255, 255, 255));}
+.sandbox.sheet .leftarrow{background-color: white;}
+.sandbox.sheet .rightarrow{background-color: white;}
 
 .sandbox.sheet input[type=text].input-disabled,.sandbox.sheet input[type=text][readonly=true]{
   background-color: #6d6d6d;
@@ -110,12 +116,12 @@ body {
 .sandbox.sheet [class^="flexblock-"] td input {
   font-family: Rubik;
   font-size: 12px;
-  background-color: white;
+  background-color: rgb(0, 0, 0);
 }
 
 /* How cItems in tables behave when you move your mouse over!!! */
 .sandbox.sheet .linkable:hover {
-    color: #029af1;
+    color: #00a7e9;
 	font-family: Rubik; /* Not a good idea to change fonts when passing the mouse but... */
 	font-size: 14px; /* Make it bigger or smaller when mouse over? */
     font-weight: bold; /* try bold - bolder - normal - lighter */
@@ -146,6 +152,7 @@ body {
 .sandbox.sheet th.input-free {
   font-family: Rubik;
   font-size: 14px;
+  color:black;
 }
 
 /* Table Body background color 

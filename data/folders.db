@@ -36,6 +36,7 @@
 {"_id":"bQVRcIlnYC8O6yFC","name":"Tabla de Armaduras","type":"Item","parent":"AgT1HTYXnaHcXIhF","sorting":"m","sort":900000,"color":"#517ec8","flags":{}}
 {"_id":"bkJadOtGoq2MNW5c","name":"Isak 3","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":1000000,"color":null,"flags":{}}
 {"_id":"dBZxAUMvxvd8puhu","name":"Bio","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":1300000,"color":null,"flags":{}}
+{"name":"Robotta - Objetos y Armamento","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"dHEib6CEp2y76kKT"}
 {"_id":"e0sj4aPU4w7pBVsQ","name":"Consumibles","type":"Item","parent":"AgT1HTYXnaHcXIhF","sorting":"a","sort":300000,"color":null,"flags":{}}
 {"name":"Robotta - Naciones","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"emcMAePlwzJt2PS7"}
 {"_id":"f6Wi24EXoh5ZgpHX","name":"Isak 4","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":0,"color":null,"flags":{}}
@@ -63,3 +64,4 @@
 {"name":"Robotta - Neosaurios/Macroinsectos","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"wnX1acAVs4tdGBPw"}
 {"_id":"wtZnMHoklcrWb6z0","name":"Condiciones","type":"Item","parent":"s1AgKfZoibrwxaHA","sorting":"a","sort":500000,"color":null,"flags":{}}
 {"name":"Robotta - NPC","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"ydM4XdmGGmd6jCnb"}
+{"$$deleted":true,"_id":"dHEib6CEp2y76kKT"}
