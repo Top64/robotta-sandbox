@@ -18,7 +18,8 @@
       "path": "packs/robotta-armas.db",
       "system": "sandbox",
       "package": "world",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "Robotta - Armaduras",
@@ -27,7 +28,8 @@
       "path": "packs/robotta-armaduras.db",
       "system": "sandbox",
       "package": "world",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "Robotta -Exos",
@@ -36,7 +38,8 @@
       "path": "packs/robotta-exos.db",
       "system": "sandbox",
       "package": "world",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "Robotta - Naves",
@@ -45,7 +48,8 @@
       "path": "packs/robotta-naves.db",
       "system": "sandbox",
       "package": "world",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "Robotta- Exos de Nave",
@@ -54,7 +58,8 @@
       "path": "packs/robotta-exos-de-nave.db",
       "system": "sandbox",
       "package": "world",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "Robotta - Robots",
@@ -63,7 +68,8 @@
       "path": "packs/robotta-robots.db",
       "system": "sandbox",
       "package": "world",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "Robotta - Clases NPC",
@@ -72,7 +78,8 @@
       "path": "packs/robotta-clases-npc.db",
       "system": "sandbox",
       "package": "world",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "Robotta - Clases Neosaurios NPC",
@@ -81,7 +88,8 @@
       "path": "packs/robotta-clases-neosaurios-npc.db",
       "system": "sandbox",
       "package": "world",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "Robotta - Clases",
@@ -90,7 +98,8 @@
       "path": "packs/robotta-clases.db",
       "system": "sandbox",
       "package": "world",
-      "private": false
+      "private": false,
+      "type": "Item"
     },
     {
       "label": "Robotta - Ciudades",
@@ -99,7 +108,8 @@
       "path": "packs/robotta-ciudades.db",
       "system": "sandbox",
       "package": "world",
-      "private": false
+      "private": false,
+      "type": "JournalEntry"
     },
     {
       "label": "Robotta - Naciones",
@@ -108,7 +118,8 @@
       "path": "packs/robotta-naciones.db",
       "system": "sandbox",
       "package": "world",
-      "private": false
+      "private": false,
+      "type": "JournalEntry"
     },
     {
       "label": "Robotta - Sistema",
@@ -117,7 +128,8 @@
       "path": "packs/robotta-sistema.db",
       "system": "sandbox",
       "package": "world",
-      "private": false
+      "private": false,
+      "type": "JournalEntry"
     },
     {
       "label": "Robotta - Neosaurios/Macroinsectos",
@@ -126,7 +138,8 @@
       "path": "packs/robotta-neosauriosmacroinsectos.db",
       "system": "sandbox",
       "package": "world",
-      "private": false
+      "private": false,
+      "type": "Actor"
     },
     {
       "label": "Robotta - NPC",
@@ -135,7 +148,8 @@
       "path": "packs/robotta-npc.db",
       "system": "sandbox",
       "package": "world",
-      "private": false
+      "private": false,
+      "type": "Actor"
     },
     {
       "label": "Robotta - Objetos y Armamento",
@@ -144,7 +158,8 @@
       "path": "packs/robotta-objetos-y-armamento.db",
       "system": "sandbox",
       "package": "world",
-      "private": false
+      "private": false,
+      "type": "Item"
     }
   ],
   "system": "sandbox",
@@ -154,7 +169,8 @@
   "download": "https://github.com/Top64/robotta-sandbox/archive/main.zip",
   "protected": false,
   "background": "worlds/robotta-sandbox/Resources/Robotta-Shadowlands-2.jpg",
-  "coreVersion": "0.8.8",
+  "coreVersion": "9.255",
   "resetKeys": false,
-  "safeMode": false
+  "safeMode": false,
+  "systemVersion": "0.12.4"
 }
